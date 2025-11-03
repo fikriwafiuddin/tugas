@@ -1,7 +1,7 @@
-@extends('layouts.master')
+{{-- @extends('layouts.master')
 
 @section('title', "Kategori")
 
-@section('content')
+@section('content') --}}
 <h2>Halaman {{ $title }} Kategori</h2>
-@endsection
+{{-- @endsection --}}
